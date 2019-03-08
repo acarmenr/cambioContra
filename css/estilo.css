@@ -1,0 +1,66 @@
+.menuVertical{
+    width: 17%;
+    height: 570px;
+    background-color: #FCFCFC;
+}
+#m1{
+    font-size: x-large;
+    margin-left: 10%;
+}
+#m2{
+    font-size: medium;
+    top: 32px;
+    margin-left: 10%;
+    position: absolute;
+    
+}
+.mensaje{    
+    background-color: #AA3636;
+    width: 82%;  
+    left:220px;
+    position: absolute;
+    color: white;
+    padding-bottom: 2%;
+}
+.textos{
+    border: solid 1px rgba(204, 204, 204, 0);
+	border-radius: 8px;
+	padding: 5px;    
+}
+.cuerpo{
+    font-family: Arial ; 
+}
+.formulario{
+    background-color: #E1E1E1;
+    border-radius: 15px;
+    top: 32%;
+    left: 35%;
+    position: absolute;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;        
+}
+.BotonFormulario{
+    padding:5px 15px;
+    border-radius: 5px;
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+#btn_entrevista{
+    background-color: #3CC93F;
+}
+.btn_menuVertical{
+    padding:5px 15px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    border: none;
+    width: 150px;
+    background-color: #83D4F0;
+}
+#usuario{
+    color: #43ABE2;
+}
